@@ -484,3 +484,6 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/Dating.db*
+client/ssl/localhost-key.pem
+.gitignore
+client/ssl/localhost.pem
